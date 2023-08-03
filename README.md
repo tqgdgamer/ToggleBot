@@ -7,24 +7,24 @@ Originally, ToggleBot was started on December 1st, 2021. Without much experience
 ### Features
 
 | Commands                 | Implemented  |
-|------------------------ |--------------|
-| **Staff Commands** | -            |
+|------------------------  |--------------|
+| **Staff Commands**       | -            |
 | Clear                    | ❌           |
-| Mute                  | ❌           |
-| Unmute                  | ❌           |
-| Kick                    | ❌           |
-| Ban                 | ❌           |
-| Unban                 | ❌           |
-| Logging                    | ❌           |
-| Warn              | ❌           |
-| **Public commands**     | -            |
-| Help                | ✅           |
-| Hello                  | ✅           |
+| Mute                     | ❌           |
+| Unmute                   | ❌           |
+| Kick                     | ❌           |
+| Ban                      | ❌           |
+| Unban                    | ❌           |
+| Logging                  | ❌           |
+| Warn                     | ❌           |
+| **Public commands**      | -            |
+| Help                     | ✅           |
+| Hello                    | ✅           |
 | Links                    | ✅           |
-| Ping                   | ✅           |
-| Membercount                    | ✅           |
-| Slap                    | ✅           |
-| Cookieclicker                    | ✅           |
+| Ping                     | ✅           |
+| Membercount              | ✅           |
+| Slap                     | ✅           |
+| Cookieclicker            | ✅           |
 
 
 
